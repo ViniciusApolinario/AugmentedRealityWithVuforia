@@ -4,6 +4,10 @@
  
  ![Screenshot](https://github.com/ViniciusApolinario/AugmentedRealityWithVuforia/blob/master/IMAGE_TARGET.jpg?raw=true)
 
+## In Operation
+ 
+ * Example video link [HERE](https://www.linkedin.com/feed/update/urn:li:activity:6343503742997925888)
+ 
 <hr/>
 
 <p align="center">
