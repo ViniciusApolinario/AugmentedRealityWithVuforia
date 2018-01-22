@@ -1,6 +1,6 @@
 ﻿#AugmentedRealityWithVuforia
  
- ##IMAGE TARGET HERE :
+ ## IMAGE TARGET HERE :
  
  ![Screenshot](https://github.com/ViniciusApolinario/AugmentedRealityWithVuforia/blob/master/IMAGE_TARGET.jpg?raw=true)
 
