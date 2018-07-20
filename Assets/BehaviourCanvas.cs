@@ -7,7 +7,7 @@ public class BehaviourCanvas : MonoBehaviour {
 
     private Text nammed;
     private Text moleculename;
-
+    private Renderer rendi;
 
     private int count;
 
@@ -44,6 +44,7 @@ public class BehaviourCanvas : MonoBehaviour {
                 this.transform.GetChild(4).gameObject.SetActive(false);
                 this.transform.GetChild(5).gameObject.SetActive(false);
                 this.transform.GetChild(6).gameObject.SetActive(false);
+
                 break;
             case 1:
                 Debug.Log("case 1");
@@ -104,6 +105,26 @@ public class BehaviourCanvas : MonoBehaviour {
             
         }
         
+    }
+
+    public void DrawnerLewis()
+    {
+        switch (count)
+        {
+            case 0:
+                this.transform.GetChild(1).gameObject.SetActive(true);
+                //this.transform.GetChild(1).GetComponent.<Renderer>().
+                rendi = this.GetComponentInChildren<Renderer>();
+               // rendi.material = new Material(Resources.Load)
+
+                break;
+            case 1:
+                break;
+
+        }
+
+
+
     }
 
     // Update is called once per frame

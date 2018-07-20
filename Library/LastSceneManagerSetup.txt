@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/GeometriaMolecular.unity
+- path: Assets/Modells.unity
   isLoaded: 1
   isActive: 1
