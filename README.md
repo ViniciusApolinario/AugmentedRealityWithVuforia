@@ -6,7 +6,7 @@
 
 ## In Operation
  
- * Example video link [HERE](https://www.linkedin.com/feed/update/urn:li:activity:6343503742997925888)
+ * Example video link [HERE](https://www.youtube.com/watch?v=z6ncP7Z2X_o)
  
 <hr/>
 
